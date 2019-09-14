@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://dohquouboh.hb35.de/sitemap.xml
